@@ -70,12 +70,32 @@
     "clips": 1223,
     "bytes": 4480527
    },
+   "B1": {
+    "clips": 1269,
+    "bytes": 5221527
+   },
+   "B2": {
+    "clips": 1218,
+    "bytes": 5540424
+   },
+   "C1": {
+    "clips": 1260,
+    "bytes": 6074791
+   },
+   "C2": {
+    "clips": 1256,
+    "bytes": 5879831
+   },
    "ALL": {
     "clips": 85,
     "bytes": 460678
    }
   },
   "bm_george": {
+   "A1": {
+    "clips": 1152,
+    "bytes": 4562794
+   },
    "ALL": {
     "clips": 85,
     "bytes": 535146
