@@ -1,0 +1,33 @@
+{
+ "engine": "Kokoro-82M v1.0 (Apache-2.0)",
+ "voices": {
+  "af_heart": {
+   "A1": {
+    "clips": 1152,
+    "bytes": 3762342
+   },
+   "ALL": {
+    "clips": 85,
+    "bytes": 446586
+   }
+  },
+  "am_michael": {
+   "ALL": {
+    "clips": 85,
+    "bytes": 506334
+   }
+  },
+  "bf_emma": {
+   "ALL": {
+    "clips": 85,
+    "bytes": 460678
+   }
+  },
+  "bm_george": {
+   "ALL": {
+    "clips": 85,
+    "bytes": 535146
+   }
+  }
+ }
+}
