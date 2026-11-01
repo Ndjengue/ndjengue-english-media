@@ -22,12 +22,32 @@
     "clips": 1260,
     "bytes": 6098787
    },
+   "C2": {
+    "clips": 1256,
+    "bytes": 5918690
+   },
    "ALL": {
     "clips": 85,
     "bytes": 446586
    }
   },
   "am_michael": {
+   "A1": {
+    "clips": 1152,
+    "bytes": 4242188
+   },
+   "A2": {
+    "clips": 1223,
+    "bytes": 4967804
+   },
+   "B1": {
+    "clips": 1269,
+    "bytes": 5869801
+   },
+   "B2": {
+    "clips": 1218,
+    "bytes": 6217843
+   },
    "ALL": {
     "clips": 85,
     "bytes": 506334
