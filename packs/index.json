@@ -120,6 +120,25 @@
     "clips": 85,
     "bytes": 535146
    }
-  }
+  },
+  "af_bella": {
+   "A1": {
+    "clips": 1152,
+    "bytes": 3504180
+   },
+   "A2": {
+    "clips": 1223,
+    "bytes": 4202770
+   },
+   "B1": {
+    "clips": 1269,
+    "bytes": 5020468
+   },
+   "ALL": {
+    "clips": 85,
+    "bytes": 433497
+   }
+  },
+  "bf_isabella": {}
  }
 }
