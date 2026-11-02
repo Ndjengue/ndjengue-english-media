@@ -134,11 +134,32 @@
     "clips": 1269,
     "bytes": 5020468
    },
+   "B2": {
+    "clips": 1218,
+    "bytes": 5382279
+   },
+   "C1": {
+    "clips": 1260,
+    "bytes": 5975224
+   },
+   "C2": {
+    "clips": 1256,
+    "bytes": 5795770
+   },
    "ALL": {
     "clips": 85,
     "bytes": 433497
    }
   },
-  "bf_isabella": {}
+  "bf_isabella": {
+   "A1": {
+    "clips": 1152,
+    "bytes": 4316103
+   },
+   "ALL": {
+    "clips": 85,
+    "bytes": 480083
+   }
+  }
  }
 }
